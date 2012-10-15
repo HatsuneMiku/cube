@@ -1,0 +1,1 @@
+You may delete *.obj files, but do not remove this directory.

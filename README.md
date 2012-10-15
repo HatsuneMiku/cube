@@ -11,6 +11,7 @@ ScreenShot
 Links
 -----
 
+ * http://HatsuneMiku.github.com/cube/wiki (wiki)
  * http://HatsuneMiku.github.com/cube/ (web)
  * https://github.com/HatsuneMiku/cube/ (here)
 
