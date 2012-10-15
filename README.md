@@ -6,12 +6,12 @@ OpenGL 3D cube like rubik with Hatsune Miku textures
 ScreenShot
 ----------
 
- * https://github.com/HatsuneMiku/HatsuneMiku/blob/master/case00.png?raw=true
+ * https://github.com/HatsuneMiku/cube/blob/master/case00.png?raw=true
 
 Links
 -----
 
- * http://HatsuneMiku.github.com/cube/wiki (wiki)
+ * https://github.com/HatsuneMiku/cube/wiki (wiki)
  * http://HatsuneMiku.github.com/cube/ (web)
  * https://github.com/HatsuneMiku/cube/ (here)
 
