@@ -3,6 +3,11 @@ HatsuneMiku cube
 
 OpenGL 3D cube like rubik with Hatsune Miku textures
 
+ScreenShot
+----------
+
+ * https://github.com/HatsuneMiku/HatsuneMiku/blob/master/case00.png?raw=true
+
 Links
 -----
 
